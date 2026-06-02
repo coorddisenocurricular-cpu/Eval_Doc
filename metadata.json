@@ -1,0 +1,6 @@
+{
+  "name": "Evaluador Docente ABD",
+  "description": "Plataforma de evaluación automática docente basada en el modelo de Aprendizaje Basado en Desafíos (ABD), con integración a Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
